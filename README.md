@@ -13,7 +13,7 @@ This project is a hands-on exercise in working with geospatial data and creating
 The data comes from the **Municipality of Amsterdam**, and all credit for the dataset goes to them.
 
 📂 **How to explore**  
-Open the Jupyter Notebook to see the full workflow: [amsterdam_building_age_map.ipynb](amsterdam_building_age_map.ipynb)
+Open the Jupyter Notebook to see the full workflow: [amsterdam_building_age_map.ipynb](amsterdam_construction_age_map.ipynb)
 
 💡 **Key learning points / what I practiced:**  
 - Geospatial data handling and plotting with Python  
